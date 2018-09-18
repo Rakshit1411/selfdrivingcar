@@ -1,1 +1,1 @@
-"# selfdrivingcar" 
+Most of the part taken from "Tensorflow for poets" repository in which the convolutional neural network is already trained on more than million on images of various categories and I had used that model to train on my set of images which consist of roads, traffic signs and traffic signals.
